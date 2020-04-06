@@ -7,11 +7,15 @@
 2-Ingreso a la carpeta por consola
 
 3- Por consola clono el repositorio
+	git clone MiRepo
 
 4-Hago los cambios(m,b,a);
 
 5-Agregar cambios;
+	git add .
 
 6-Comitear cambios;
+	git commit -m "Mensaje del cambio"
 
 7-Subir al repositorio WEB;
+	git push
