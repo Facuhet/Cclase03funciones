@@ -1,5 +1,4 @@
-#Santoro
-#Facundo
+#Santoro Facundo
 
 --La primera vez
 1_ Creo la carpeta contenedora de repositorios
@@ -19,3 +18,9 @@
 
 7-Subir al repositorio WEB;
 	git push
+
+# Orden a seguir
+git clone
+git add .
+git commit -m "mensaje"
+git push
